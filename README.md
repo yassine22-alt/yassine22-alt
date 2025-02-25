@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Yassine Blali! 👋
 
-<!--
-**yassine22-alt/yassine22-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me  
+I'm a **third-year Computer Science student** at **UM6P**, passionate about **AI, software development, and optimization problems**. I enjoy solving complex challenges, writing efficient code, and working on system-level projects.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** Java (Spring Boot), Go, Python, C, C++
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- **DevOps & Cloud:** Docker, Kubernetes, CI/CD (GitHub Actions)  
+- **Software Engineering:** Design Patterns, UML, Agile (Scrum)  
+- **Machine Learning & Optimization:** TensorFlow, Sickit-learn, PyTorch, Keras, Numpy, Matplotlib, Pandas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me  
+- **Email:** yassine.blali@um6p.ma
+- **GitHub:** [github.com/yassine22-alt](https://github.com/yassine22-alt)  
+- **LinkedIn:** [linkedin.com/in/yassine-blali](https://www.linkedin.com/in/yassine-blali-93a1b6256/)  
