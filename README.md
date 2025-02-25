@@ -1,7 +1,7 @@
 # Hi, I'm Yassine Blali! 👋
-[tt](https://github-readme-stats.vercel.app/api?username=yassine22-alt&theme=tokyonight&show_icons=true%22%20height=150)
+![tt](https://github-readme-stats.vercel.app/api?username=yassine22-alt&theme=tokyonight&show_icons=true%22%20height=150)
 
-[tt](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine22-alt&langs_count=5&theme=tokyonight"height=150)
+![tt](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine22-alt&langs_count=5&theme=tokyonight"height=150)
 ## 👨‍🎓 About Me  
 I'm a **third-year Computer Science student** at **UM6P**, passionate about **AI, software development, and optimization problems**. I enjoy solving complex challenges, writing efficient code, and working on system-level projects.
 
