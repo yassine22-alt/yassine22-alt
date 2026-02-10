@@ -1,18 +1,26 @@
 # Hi, I'm Yassine Blali! 👋
-![tt](https://github-readme-stats.vercel.app/api?username=yassine22-alt&theme=tokyonight&show_icons=true%22%20height=150)
 
-![tt](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine22-alt&langs_count=5&theme=tokyonight&show_icons=true%22%20height=150)
-## 👨‍🎓 About Me  
-I'm a **third-year Computer Science student** at **UM6P**, passionate about **AI, software development, and optimization problems**. I enjoy solving complex challenges, writing efficient code, and working on system-level projects.
+### 👨‍🎓 About Me
 
-## 🛠 Skills
-- **Programming Languages:** Java (Spring Boot), Go, Python, C, C++
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD (GitHub Actions)  
-- **Software Engineering:** Design Patterns, UML, Agile (Scrum)  
-- **Machine Learning & Optimization:** TensorFlow, Sickit-learn, PyTorch, Keras, Numpy, Matplotlib, Pandas 
+I'm a **4th-year Computer Science student** at **UM6P**, specialized in **Optimization Theory, AI, and Distributed Systems**. I bridge the gap between high-level mathematical research and production-grade system architecture
 
-## 📫 Contact Me  
-- **Email:** yassine.blali@um6p.ma
-- **GitHub:** [github.com/yassine22-alt](https://github.com/yassine22-alt)  
-- **LinkedIn:** [linkedin.com/in/yassine-blali](https://www.linkedin.com/in/yassine-blali-93a1b6256/)  
+### 🛠 Skills
+
+* **Programming Languages:** Python (Research & AI), Go (Systems), Java (Spring Boot), C/C++
+* **AI & Optimization:** PyTorch, TensorFlow, Agentic RAG
+* **Cloud & Networking:** OpenStack, Docker, Kubernetes, AWS
+
+### 🚀 Key Projects
+
+* **Interpretable Data Compression:** Developed support-restricted computation strategies for non-negative matrix factorization. ()
+* **Production RAG Agent:** Architected a multi-processor AI system for commercial real estate serving 1,000+ users.
+* **Zero-Touch Infrastructure:** Built manual multi-tenant cloud architectures to research autonomous intent-to-config reasoning.
+
+### Note: 
+Certain repositories are private to respect NDA/pre-publication confidentiality for academic research.
+### 📫 Contact Me
+
+* **Email:** yassine.blali@um6p.ma
+* **GitHub:** [github.com/yassine22-alt](https://www.google.com/search?q=https://github.com/yassine22-alt)
+* **LinkedIn:** [linkedin.com/in/yassine-blali](https://www.google.com/search?q=https://www.linkedin.com/in/yassine-blali-93a1b6256)
+
